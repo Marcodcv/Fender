@@ -222,6 +222,7 @@ p .img{
 .form{
     width: 85%;
     max-width: 630px;
+    height: 90%;
     margin:auto;
     background: rgb(255, 255, 255);
     padding: 2em 3em;
